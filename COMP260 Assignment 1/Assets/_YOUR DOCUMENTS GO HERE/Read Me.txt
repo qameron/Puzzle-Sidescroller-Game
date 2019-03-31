@@ -1,0 +1,1 @@
+All of your documents (Plan, Storyboards, Design Document) should be saved as a PDF in this folder.
